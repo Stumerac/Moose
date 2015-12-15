@@ -1,2 +1,6 @@
 # Moose
-Moose
+##Characteristics
+
+##Behaviors
+*Imagined
+*Observed
